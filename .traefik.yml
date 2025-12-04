@@ -1,0 +1,7 @@
+displayName: My Traefik Plugin
+type: middleware
+import: github.com/Wazega/mytraefikplugin
+summary: Simple auth-cookie redirection plugin
+testData:
+  cookieName: authtoken
+  redirectURL: http://whoami.localhost/
