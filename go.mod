@@ -1,4 +1,4 @@
-module github.com/Wazega/mytraefikplugin
+module mytraefikplugin
 
 go 1.19
 
